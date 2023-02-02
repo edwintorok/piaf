@@ -28,6 +28,7 @@ depends: [
   "uri"
   "magic-mime"
   "gluten-lwt-unix"
+  "eio"
   "alcotest" {with-test}
   "alcotest-lwt" {with-test}
 ]
